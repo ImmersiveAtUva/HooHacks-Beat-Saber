@@ -1,8 +1,17 @@
 # Beat Saber Unity Tutorial
 
+Welcome to HooHacks 2019!
+We are Immersive @ UVA, and this is a tutorial on how to create Beat Saber in VR with unity. This tutorial is based on the Youtuber Valem's video where he created this game in 10 minutes as an online challenge. His original video is here: https://www.youtube.com/watch?v=gh4k0Q1Pl7E
+
+Here is a short video if you are not familiar with beat saber: https://www.youtube.com/watch?v=vL39Sg2AqWg 
+Today we are going to be walking you through how to make your very own Beat Saber game. We will be using the Oculus Integration kit, which means this tutorial will work for the HTC Vive and the Oculus Rift, and will also work for mobile VR development with some modifications on the controller setup.
+
+The song that we will be using can be downloaded here: click.dj/thefatrat/thefatrat-unity-1
+You can also feel free to pick your own song!
+
 ### Download Unity Hub
 
-* Download version 2018.3.6f1
+* Download Unity version 2018.3.6f1
 
 ### Create New Project
 
@@ -70,7 +79,7 @@
     * X,Y 0, 0.4
     * X,Y -0.4, 0.4
 * Drag these 4 objects into the list for Points array in the Spawner script
-* Change the beats if you like by taking 60 and dividing it by the BMP of your song. Multiply by 2 to get faster block generation
+* Enter 60/105 for the Beat, or change this according the the beat of your song
 
 ### Add Saber Script
 
