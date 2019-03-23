@@ -1,10 +1,9 @@
 # Beat Saber Unity Tutorial
 
-Welcome to HooHacks 2019!
 We are Immersive @ UVA, and this is a tutorial on how to create Beat Saber in VR with unity. This tutorial is based on the Youtuber Valem's video where he created this game in 10 minutes as an online challenge. His video is here: https://www.youtube.com/watch?v=gh4k0Q1Pl7E
 
 Here is a short video if you are not familiar with beat saber: https://www.youtube.com/watch?v=vL39Sg2AqWg 
-We will be using the Oculus Integration kit, which means this tutorial will work for the HTC Vive and the Oculus Rift, and will also work for mobile VR development with some modifications on the controller setup.
+We are using the Oculus Integration kit, which means this tutorial will work for the HTC Vive and the Oculus Rift, and will also work for mobile VR development with some modifications on the controller setup.
 
 The song we are using can be downloaded here: click.dj/thefatrat/thefatrat-unity-1
 Feel free to pick your own song and adjust the beats per minute accordingly!
