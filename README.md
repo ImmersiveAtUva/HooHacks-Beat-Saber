@@ -1,23 +1,17 @@
 # Beat Saber Unity Tutorial
 
 Welcome to HooHacks 2019!
-We are Immersive @ UVA, and this is a tutorial on how to create Beat Saber in VR with unity. This tutorial is based on the Youtuber Valem's video where he created this game in 10 minutes as an online challenge. His original video is here: https://www.youtube.com/watch?v=gh4k0Q1Pl7E
+We are Immersive @ UVA, and this is a tutorial on how to create Beat Saber in VR with unity. This tutorial is based on the Youtuber Valem's video where he created this game in 10 minutes as an online challenge. His video is here: https://www.youtube.com/watch?v=gh4k0Q1Pl7E
 
 Here is a short video if you are not familiar with beat saber: https://www.youtube.com/watch?v=vL39Sg2AqWg 
-Today we are going to be walking you through how to make your very own Beat Saber game. We will be using the Oculus Integration kit, which means this tutorial will work for the HTC Vive and the Oculus Rift, and will also work for mobile VR development with some modifications on the controller setup.
+We will be using the Oculus Integration kit, which means this tutorial will work for the HTC Vive and the Oculus Rift, and will also work for mobile VR development with some modifications on the controller setup.
 
-The song that we will be using can be downloaded here: click.dj/thefatrat/thefatrat-unity-1
-You can also feel free to pick your own song!
-
-If you would like to be put in the raffle for the VR equipment, enter your information here:
-https://docs.google.com/spreadsheets/d/1SNAjRNmHE3fxmBmc_KoKs1sZJMbbR6DuRPkwdcASTfw/edit?usp=sharing
-
-We will be distributing 2 HTC Vive backpacks (with laptop), 5 Oculus Gos, and access to three VR Stations at Clemons library from 6pm to 12am tonight. (2 Vives and 1 Oculus Rift)
-The Vive backpacks must be returned to us at 10am tommorow so that VR teams can perform their demos.
+The song we are using can be downloaded here: click.dj/thefatrat/thefatrat-unity-1
+Feel free to pick your own song and adjust the beats per minute accordingly!
 
 ### Download Unity Hub
 
-* Download Unity version 2018.3.6f1
+* Download Unity. This tutorial was created on version 2018.3.6f1, and other versions may possibly work
 
 ### Create New Project
 
